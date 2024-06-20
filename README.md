@@ -1,16 +1,19 @@
-## Hi there 👋
+# Bem-vindo ao meu perfil no GitHub!
 
-<!--
-**RenanCatini/RenanCatini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+Olá! Meu nome é Renan, sou estudante de Ciência da Computação na Unifal MG. 
+Atualmente estou cursando as seguintes disciplinas:
 
-Here are some ideas to get you started:
+- Geometria Analítica
+- Lógica Digital
+- Introdução à Ciência da Computação
+- Fundamentos Matemáticos para Ciência da Computação
+- Algoritmos e Estruturas de Dados (AEDS)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos e Trabalhos
+Aqui você encontrará repositórios com meus trabalhos e projetos desenvolvidos durante o curso.
+
+## Contato
+- Email: renan.amaral@sou.unifal-mg.edu.br
+-Telefone: (19)98733-2387
+
