@@ -12,7 +12,7 @@ Olá! Eu sou **Renan Catini Amaral**, estudante de **Ciência da Computação** 
 ---
 
 ## ⚙️ Tecnologias e Ferramentas
-- **Linguagens**: C, C++, Python, ShellScript
+- **Linguagens**: C, C++, Python, ShellScript, Java, Haskell
 - **Ferramentas**: Git, GitHub, VSCode, Windows 11, Ubuntu
 - **Outros**: HTML, LaTeX
 
