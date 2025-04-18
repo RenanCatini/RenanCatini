@@ -27,4 +27,3 @@ Olá! Eu sou **Renan Catini Amaral**, estudante de **Ciência da Computação** 
 Se você deseja entrar em contato comigo, pode usar as seguintes informações:
 
 - ✉️ Email: renan.amaral@sou.unifal-mg.edu.br
-- 📞 Telefone: (19) 98733-2387
