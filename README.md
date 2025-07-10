@@ -8,7 +8,7 @@ Olá! Eu sou **Renan Catini Amaral**, estudante de **Ciência da Computação** 
 ## 🚀 Projetos, Trabalhos e Matérias
 
 > Sinta-se à vontade para explorar e contribuir!
-> Semestres-passados : Matérias de cada semestre passado com alguns exercícios (Mais completo apartir do Semestre 3)
+- Semestres-passados : Matérias de cada semestre passado com alguns exercícios (Mais completo apartir do Semestre 3)
 
 ### 📚 Semestre Atual (2025/2)
 
