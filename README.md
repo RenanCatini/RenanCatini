@@ -8,11 +8,10 @@ Olá! Eu sou **Renan Catini Amaral**, estudante de **Ciência da Computação** 
 ## 🚀 Projetos, Trabalhos e Matérias
 
 > Sinta-se à vontade para explorar e contribuir!
+> Semestres-passados : Matérias de cada semestre passado com alguns exercícios (Mais completo apartir do Semestre 3)
 
-### 📚 Semestre Atual (2025/1)
-- 🔷 [Programação Lógica (Prolog)](https://github.com/RenanCatini/Prolog)
-- 🟣 [Programação Funcional (Haskell)](https://github.com/RenanCatini/Funcional)
-- 🟡 [Programação Orientada a Objetos (Java)](https://github.com/RenanCatini/orientacaoObjetos)
+### 📚 Semestre Atual (2025/2)
+
 
 ---
 
