@@ -10,7 +10,21 @@ Olá! Eu sou **Renan Catini Amaral**, estudante de **Ciência da Computação** 
 > Sinta-se à vontade para explorar e contribuir!
 - Semestres-passados : Matérias de cada semestre passado com alguns exercícios (Mais completo apartir do Semestre 3)
 
-### 📚 Semestre Atual (2025/2)
+---
+
+## 📚 Semestre Atual
+
+Atualmente estou cursando as seguintes matérias. Todos os projetos e materiais de estudo estão sendo versionados e podem ser encontrados nas respectivas pastas do repositório.
+
+- **Banco de Dados**
+- **Computação Gráfica**
+- **Compiladores**
+- **Estatística**
+- **Gestão**
+- **Programação Web**
+- **Sistemas Operacionais**
+
+*Última atualização: 26 de Agosto de 2025*
 
 
 ---
