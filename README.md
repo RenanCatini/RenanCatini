@@ -1,10 +1,5 @@
 # 👋 Bem-vindo ao meu perfil no GitHub!
 
-## Sobre mim
-Olá! Eu sou **Renan Catini Amaral**, estudante de **Ciência da Computação** na **Unifal MG**. Tenho interesse em desenvolvimento de software, algoritmos e tecnologia. Gosto de aprender e aplicar novos conhecimentos em projetos práticos, explorando linguagens como C, C++, Java e mais!
-
----
-
 ## 🚀 Projetos, Trabalhos e Matérias
 
 > Sinta-se à vontade para explorar e contribuir!
