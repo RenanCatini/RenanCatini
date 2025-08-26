@@ -11,16 +11,12 @@
 
 Atualmente estou cursando as seguintes matérias. Todos os projetos e materiais de estudo estão sendo versionados e podem ser encontrados nas respectivas pastas do repositório.
 
-- **Banco de Dados**
-- **Computação Gráfica**
-- **Compiladores**
-- **Estatística**
-- **Gestão**
-- **Programação Web**
-- **Sistemas Operacionais**
-
-*Última atualização: 26 de Agosto de 2025*
-
+- [**Banco de Dados**](https://github.com/RenanCatini/Semetre-4/tree/main/banco-de-dados)
+- [**Computação Gráfica**](https://github.com/RenanCatini/Semetre-4/tree/main/computacao-grafica)
+- [**Compiladores**](https://github.com/RenanCatini/Semetre-4/tree/main/compiladores)
+- [**Estatística**](https://github.com/RenanCatini/Semetre-4/tree/main/estatistica)
+- [**Gestão**](https://github.com/RenanCatini/Semetre-4/tree/main/gestao)
+- [**Programação Web**](https://github.com/RenanCatini/Semetre-4/tree/main/programacao-web)
 
 ---
 
