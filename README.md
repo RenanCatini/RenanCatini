@@ -15,14 +15,22 @@ Atualmente estou cursando as seguintes matérias. Todos os projetos e materiais 
 - [**Computação Gráfica**](https://github.com/RenanCatini/Semetre-4/tree/main/computacao-grafica)
 - [**Compiladores**](https://github.com/RenanCatini/Semetre-4/tree/main/compiladores)
 - [**Estatística**](https://github.com/RenanCatini/Semetre-4/tree/main/estatistica)
-- [**Gestão**](https://github.com/RenanCatini/Semetre-4/tree/main/gestao)
+- [**Gestão do Ciclo de Vida da Aplicação**](https://github.com/RenanCatini/Semetre-4/tree/main/gestao)
 - [**Programação Web**](https://github.com/RenanCatini/Semetre-4/tree/main/programacao-web)
 
 ---
 
 ## ⚙️ Tecnologias e Ferramentas
-- **Linguagens**: C, C++, Python, Prolog, Java, Haskell
+- **Linguagens**: C, C++, Python, Prolog, Java, Haskell, HTML, CSS, JavaScript
 - **Ferramentas**: Git, GitHub, VSCode, Intellij, Windows 11, Ubuntu
+- **Python**: Pandas, MatPlotLib, Scikit-Learn
+
+---
+
+## ✨ Intereses
+- Machine Learn, ciência de dados
+- Desenvolvimento Web
+- Banco de dados
 
 ---
 
