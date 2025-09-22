@@ -4,6 +4,7 @@
 
 > Sinta-se à vontade para explorar e contribuir!
 - Semestres-passados : Matérias de cada semestre passado com alguns exercícios (Mais completo apartir do Semestre 3)
+- [Processador](https://github.com/RenanCatini/Processador): Duas implementações de um processador simples em Verilog, desemvolvido como trabalho da matéria 'Interface Hardware Software' 
 
 ---
 
