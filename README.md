@@ -10,8 +10,8 @@
 ---
 
 ## ⚙️ Tecnologias e Ferramentas
-- **Linguagens**: C, C++, Python, Prolog, Java, Haskell, HTML, CSS, JavaScript
-- **Ferramentas**: Git, GitHub, VSCode, Intellij, Windows 11, Ubuntu
+- **Linguagens**: C, C++, Python, Prolog, Java, Haskell, HTML, CSS, JavaScript, C#
+- **Ferramentas**: Git, GitHub, Unity, VSCode, Intellij, Windows 11, Ubuntu
 - **Python**: Pandas, MatPlotLib, Scikit-Learn
 
 ---
