@@ -1,6 +1,6 @@
 # 👋 Bem-vindo ao meu perfil no GitHub!
 
-## 🚀 Projetos, Trabalhos e Matérias
+## Projetos, Trabalhos e Matérias
 
 > Sinta-se à vontade para explorar e contribuir!
 - [Semestres-Passados](https://github.com/RenanCatini/Semestres-Passados) : Matérias de cada semestre passado com alguns exercícios (Mais completo apartir do Semestre 3)
@@ -9,22 +9,22 @@
 
 ---
 
-## ⚙️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 - **Linguagens**: C, C++, Python, Prolog, Java, Haskell, HTML, CSS, JavaScript, C#
 - **Ferramentas**: Git, GitHub, Unity, VSCode, Intellij, Windows 11, Ubuntu
 - **Python**: Pandas, MatPlotLib, Scikit-Learn
 
 ---
 
-## ✨ Intereses
+## Intereses
 - Machine Learn, ciência de dados
 - Desenvolvimento Web
 - Banco de dados
 
 ---
 
-## 📫 Contato
+## Contato
 
 Se você deseja entrar em contato comigo, pode usar as seguintes informações:
 
-- ✉️ Email: renan.amaral@sou.unifal-mg.edu.br
+- Email: renan.amaral@sou.unifal-mg.edu.br
