@@ -3,17 +3,12 @@
 Estudante de **Ciência da Computação** na Universidade Federal de Alfenas.
 
 
-### 🛠️ Minha Toolbox:
+### 🛠️ Habilidades:
 
 **Linguagens & Backend**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-**Frontend & Design**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Pixel Art](https://img.shields.io/badge/Pixel_Art-Visual-8A2BE2?style=for-the-badge)
 
 **Engines & Hardware**
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
