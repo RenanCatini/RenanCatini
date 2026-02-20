@@ -19,12 +19,6 @@ Interesse em **desenvolvimento backend**, **machine learning**, **ciência de da
 
 ---
 
-## 📈 Stats
-![Public Repos](https://img.shields.io/github/repo-count/RenanCatini?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/RenanCatini?style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/RenanCatini/RenanCatini?style=for-the-badge)
----
-
 ## 📫 Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/renan-catini)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/renan.catini)
