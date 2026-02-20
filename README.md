@@ -20,7 +20,9 @@ Interesse em **desenvolvimento backend**, **machine learning**, **ciência de da
 ---
 
 ## 📈 Stats
-![Atividade](https://github.com/RenanCatini/RenanCatini/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
+![Public Repos](https://img.shields.io/github/repo-count/RenanCatini?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/RenanCatini?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/RenanCatini/RenanCatini?style=for-the-badge)
 ---
 
 ## 📫 Onde me encontrar
