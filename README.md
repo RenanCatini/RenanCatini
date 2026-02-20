@@ -1,30 +1,40 @@
-# 👋 Bem-vindo ao meu perfil no GitHub!
+# Olá, eu sou o Renan! 👋
 
-## Projetos, Trabalhos e Matérias
-
-> Sinta-se à vontade para explorar e contribuir!
-- [Semestres-Passados](https://github.com/RenanCatini/Semestres-Passados) : Matérias de cada semestre passado com alguns exercícios (Mais completo apartir do Semestre 3)
-- [Processador](https://github.com/RenanCatini/Processador): Duas implementações de um processador simples em Verilog, desenvolvido como trabalho da matéria 'Interface Hardware Software'
-- [Site Pessoal](https://renancatini.github.io/): Meu site pessoal, desenvolvido em HTML e CSS para a disciplina de 'Programação Web'
+Estudante de **Ciência da Computação** (5º semestre) apaixonado por transformar lógica em soluções visuais e funcionais.
 
 ---
 
-## Tecnologias e Ferramentas
-- **Linguagens**: C, C++, Python, Prolog, Java, Haskell, HTML, CSS, JavaScript, C#
-- **Ferramentas**: Git, GitHub, Unity, VSCode, Intellij, Windows 11, Ubuntu
-- **Python**: Pandas, MatPlotLib, Scikit-Learn
+### 🔬 No que estou trabalhando:
+- **Iniciação Científica:** Pesquisa voltada para a classificação de arritmias cardíacas usando Machine Learning.
+- **Desenvolvimento Web:** Aprofundando em Java e Spring Boot para criar APIs robustas.
+- **Game Dev:** Criando experiências em Unity e Godot, unindo programação e Pixel Art.
 
 ---
 
-## Intereses
-- Machine Learn, ciência de dados
-- Desenvolvimento Web
-- Banco de dados
+### 🛠️ Minha Toolbox:
+
+**Linguagens & Backend**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+**Frontend & Design**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Pixel Art](https://img.shields.io/badge/Pixel_Art-Visual-8A2BE2?style=for-the-badge)
+
+**Engines & Hardware**
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-%23478cbf.svg?style=for-the-badge&logo=godot-engine&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ---
 
-## Contato
+### 📈 GitHub Stats
+![Status do GitHub de Renan](https://github-readme-stats.vercel.app/api?username=RenanCatini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
-Se você deseja entrar em contato comigo, pode usar as seguintes informações:
+---
 
-- Email: renan.amaral@sou.unifal-mg.edu.br
+### 📫 Como me encontrar:
+- **GitHub:** [github.com/RenanCatini](https://github.com/RenanCatini)
+- **LinkedIn:** [Adicione seu link aqui]
