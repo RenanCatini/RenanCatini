@@ -1,15 +1,7 @@
 # Olá, eu sou o Renan! 👋
 
-Estudante de **Ciência da Computação** (5º semestre) apaixonado por transformar lógica em soluções visuais e funcionais.
+Estudante de **Ciência da Computação** na Universidade Federal de Alfenas.
 
----
-
-### 🔬 No que estou trabalhando:
-- **Iniciação Científica:** Pesquisa voltada para a classificação de arritmias cardíacas usando Machine Learning.
-- **Desenvolvimento Web:** Aprofundando em Java e Spring Boot para criar APIs robustas.
-- **Game Dev:** Criando experiências em Unity e Godot, unindo programação e Pixel Art.
-
----
 
 ### 🛠️ Minha Toolbox:
 
