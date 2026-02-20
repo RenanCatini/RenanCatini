@@ -20,7 +20,7 @@ Interesse em **desenvolvimento backend**, **machine learning**, **ciência de da
 ---
 
 ## 📈 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RenanCatini&show_icons=true&theme=vibrant)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=renan-catini&show_icons=true&theme=vibrant)
 ---
 
 ## 📫 Onde me encontrar
