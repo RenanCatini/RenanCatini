@@ -20,7 +20,9 @@ Interesse em **desenvolvimento backend**, **machine learning**, **ciência de da
 ---
 
 ## 📈 Stats
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RenanCatini)
+![Followers](https://img.shields.io/github/followers/RenanCatini?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/RenanCatini?style=for-the-badge)
+![Repos](https://img.shields.io/badge/Repos-public-blue?style=for-the-badge)
 ---
 
 ## 📫 Onde me encontrar
