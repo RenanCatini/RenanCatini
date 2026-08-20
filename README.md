@@ -1,6 +1,6 @@
 # Olá, eu sou o Renan! 👋
 
-Estudante de **Ciência da Computação** na **Universidade Federal de Alfenas (UNIFAL-MG)**, com foco em **machine learning aplicado à saúde** — já trabalhei com classificação de arritmias em ECG, generalização de modelos preditivos entre doenças virais a partir de hemogramas completos, e otimização de hiperparâmetros com Optuna.
+Estudante de **Ciência da Computação** na **Universidade Federal de Alfenas (UNIFAL-MG)**, com foco em **machine learning** — já trabalhei com classificação de arritmias em ECG, generalização de modelos preditivos entre doenças virais a partir de hemogramas completos, e otimização de hiperparâmetros com Optuna.
 
 ---
 
