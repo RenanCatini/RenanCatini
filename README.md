@@ -16,7 +16,14 @@ Estudante de **Ciência da Computação** na **Universidade Federal de Alfenas (
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=RenanCatini&theme=tokyonight&hide_border=true&bg_color=00000000&layout=compact)
+<p align="left">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=RenanCatini&theme=tokyonight&hide_border=true&bg_color=00000000&layout=compact" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=RenanCatini&theme=tokyonight&hide_border=true&background=00000000" height="165"/>
+</p>
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=RenanCatini&theme=tokyonight&no-frame=true&column=7&margin-w=8)
+
+![Snake animation](https://raw.githubusercontent.com/RenanCatini/RenanCatini/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
