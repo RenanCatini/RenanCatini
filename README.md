@@ -16,7 +16,7 @@ Estudante de **Ciência da Computação** na **Universidade Federal de Alfenas (
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RenanCatini&show_icons=true&theme=default&hide_border=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=RenanCatini&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000)
 
 ---
 
